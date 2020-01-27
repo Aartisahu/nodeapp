@@ -1,0 +1,27 @@
+.App {
+  text-align: center;
+}
+.App-link {
+  color: #09d3ac;
+}
+button {
+  background-color:teal;
+  border: white;
+  color: white;
+  padding: 8px 32px;
+  margin: 4px 2px;
+  cursor: pointer;
+  align: center;
+}
+
+
+   
+   h3{
+      color:teal;
+   }
+   button:active{
+   background:red;
+   text-align: center;
+   }
+
+
